@@ -6,7 +6,7 @@ const Home = () => {
     <>
         <div className='home-main-div'>
             <div className='home-top-banner'>
-                <img className='main-logo' src="../public/logo2.png" alt="logo" />
+                <img className='main-logo' src="/logo2.png" alt="logo" />
             </div>
         </div>
     </>
