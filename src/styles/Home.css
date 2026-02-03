@@ -1,0 +1,8 @@
+.home-main-div{
+  min-height: 100vh;
+  background: linear-gradient(
+    180deg,
+    #0061ff 0%,
+    #60efff 100%
+  );
+}
