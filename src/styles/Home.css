@@ -1,8 +1,16 @@
-.home-main-div{
+.home-main-div {
   min-height: 100vh;
-  background: linear-gradient(
-    180deg,
-    #0061ff 0%,
-    #60efff 100%
-  );
+  background: linear-gradient(180deg, #0061ff 0%, #60efff 100%);
+}
+
+.home-top-banner {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #ffffff, #f5f5f5, #eeeeee);
+}
+
+.main-logo {
+  width: 120px;
+  height: 120px;
 }

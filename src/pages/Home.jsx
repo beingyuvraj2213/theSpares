@@ -5,7 +5,9 @@ const Home = () => {
   return (
     <>
         <div className='home-main-div'>
-        <h2>The Spares</h2>
+            <div className='home-top-banner'>
+                <img className='main-logo' src="../public/logo2.png" alt="logo" />
+            </div>
         </div>
     </>
   )
